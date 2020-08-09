@@ -13,5 +13,5 @@ class GetRequester
   end
   
   def parse_json
-    
+    result = 
     
